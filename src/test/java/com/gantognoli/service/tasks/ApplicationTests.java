@@ -1,4 +1,4 @@
-package com.gantognoli.service.one;
+package com.gantognoli.service.tasks;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
