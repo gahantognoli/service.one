@@ -12,7 +12,7 @@
 	<artifactId>service.tasks</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>service.tasks</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Microsservico 1</description>
 	<url/>
 	<licenses>
 		<license/>
